@@ -5,5 +5,5 @@ Development of QEU system for Machine learing
 
 | DATE | FILE | TITLE(LINK) |
 |:---:|:---:|:---|
-| 2022-09-13 | Introduction | [Insroduction](https://yaber1965.github.io/QEU_dev.github.io/Introduction/README_Introduction.html) |
+| 2022-09-13 | Introduction | [Introduction](https://yaber1965.github.io/QEU_dev.github.io/Introduction/README_Introduction.html) |
 
