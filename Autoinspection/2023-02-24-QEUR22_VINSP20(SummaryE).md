@@ -7,7 +7,7 @@ excerpt: julia言語とテクノメトリックスを使った外観検査自動
 
 ## Technical summary - Automated visual inspection machine for inspecting connector terminals of wire harnesses.
 
-### ＞Donate me(click here)＜[https://www.paypal.com/paypalme/QEUglobal?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000481&utm_unptid=29844400-7613-11ec-ac72-3cfdfef0498d&ppid=RT000481&cnac=HK&rsta=en_GB%28en-HK%29&cust=5QPFDMW9B2T7Q&unptid=29844400-7613-11ec-ac72-3cfdfef0498d&calc=f860991d89600&unp_tpcid=ppme-social-business-profile-created&page=main%3Aemail%3ART000481&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.71.0&xt=104038]
+### [＞Donate me(click here)＜](https://www.paypal.com/paypalme/QEUglobal?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000481&utm_unptid=29844400-7613-11ec-ac72-3cfdfef0498d&ppid=RT000481&cnac=HK&rsta=en_GB%28en-HK%29&cust=5QPFDMW9B2T7Q&unptid=29844400-7613-11ec-ac72-3cfdfef0498d&calc=f860991d89600&unp_tpcid=ppme-social-business-profile-created&page=main%3Aemail%3ART000481&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.71.0&xt=104038)
 
 ### [Technology field]
 This invention relates to an automatic computerized visual inspection machine for inspecting connector terminals of wire harnesses.
