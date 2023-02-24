@@ -21,5 +21,14 @@ QEU ROUND 2-2 Autoinspection
 | 2023-02-17 | QEUR22_VINSP11 | [　MIN-MAX正規化ロジックを変更する](./2023-02-17-QEUR22_VINSP11.html) |
 | 2023-02-17 | QEUR22_VINSP12 | [　差分画像生成ロジックの大改造](./2023-02-17-QEUR22_VINSP12.html) |
 | 2023-02-18 | QEUR22_VINSP13 | [　感度（BETA）によって生成する画像の判別性能は？](./2023-02-18-QEUR22_VINSP13.html) |
-| 2023-02-18 | QEUR22_VINSP14 | [　画像の２値化をやってみた](./2023-02-18-QEUR22_VINSP14.html) |
+| 2023-02-18 | QEUR22_VINSP14 | [　２値化画像で両目RTメトリックスを計算してみた](./2023-02-18-QEUR22_VINSP14.html) |
 | 2023-02-19 | QEUR22_VINSP15 | [　計測画像の２値化がマハラノビス距離判別にもたらす効果は？](./2023-02-19-QEUR22_VINSP15.html) |
+| 2023-02-20 | QEUR22_VINSP16 | [　SVMを使った分類系「教師あり学習」](./2023-02-20-QEUR22_VINSP16.html) |
+| 2023-02-21 | QEUR22_VINSP17 | [　SVMを使った分類系「教師あり学習」(Beta plus Snr)](./2023-02-21-QEUR22_VINSP17.html) |
+| 2023-02-22 | QEUR22_VINSP18 | [　SVMを使った分類系「教師あり学習」(Five Eyes)](./2023-02-22-QEUR22_VINSP18.html) |
+| 2023-02-23 | QEUR22_VINSP19(SummaryJ) | [技術まとめ　～　ワイヤーハーネスのコネクタ端子検査における外観検査自動機](./2023-02-23-QEUR22_VINSP19(SummaryJ).html) |
+| 2023-02-24 | QEUR22_VINSP20(SummaryE) | [Technical summary - Automated visual inspection machine for inspecting connector terminals of wire harnesses.](./2023-02-24-QEUR22_VINSP20(SummaryE).html) |
+
+
+
+
